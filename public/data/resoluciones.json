@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": 1,
+    "tipo": "Diligencia de ordenación",
+    "dicta": "Letrado/a de la Administración de Justicia",
+    "recurso": "Recurso de reposición",
+    "plazo": "Cinco días",
+    "organo": "Mismo órgano que dictó la diligencia",
+    "fundamento": "Artículo 206.2.1ª y 454 bis LEC",
+    "enlace": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323&p=20250228&tn=1#a206",
+    "explicacion": "La diligencia de ordenación da curso a los autos según la ley. Puede recurrirse en reposición ante el propio Letrado de la Administración de Justicia dentro de los cinco días siguientes."
+  },
+  {
+    "id": 2,
+    "tipo": "Decreto",
+    "dicta": "Letrado/a de la Administración de Justicia",
+    "recurso": "Recurso de revisión (si no pone fin al proceso)",
+    "plazo": "Cinco días",
+    "organo": "Juzgado o Tribunal que conozca del asunto",
+    "fundamento": "Artículo 206.2.2ª y 454 bis LEC",
+    "enlace": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323&p=20250228&tn=1#a206",
+    "explicacion": "El decreto se dicta cuando la resolución requiere razonamiento o pone fin a un procedimiento de competencia del LAJ. Puede ser revisado por el tribunal mediante recurso de revisión si no pone fin al proceso."
+  },
+  {
+    "id": 3,
+    "tipo": "Providencia",
+    "dicta": "Juez o Tribunal",
+    "recurso": "Recurso de reposición",
+    "plazo": "Cinco días",
+    "organo": "Mismo Juzgado o Tribunal",
+    "fundamento": "Artículos 206.1, 451 y 452 LEC",
+    "enlace": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323&p=20250228&tn=1#a206",
+    "explicacion": "Las providencias se limitan a decidir cuestiones procesales de trámite. Frente a ellas cabe recurso de reposición ante el mismo órgano judicial."
+  }
+]
